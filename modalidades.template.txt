@@ -1,0 +1,6 @@
+# Ver no F12
+0: Ampla concorrência
+# 1: Renda + EP
+# 2: PPI + Renda + EP
+5: EP
+# 6: PPI + EP
